@@ -45,6 +45,6 @@ make
 ```
 - For an MPI execution:
 ```
-mpirun -np N ./my_dijkstra_program
+mpirun -np N ./DijkstraApp
 ```
 replace 'N' with the number of processes you want to run
