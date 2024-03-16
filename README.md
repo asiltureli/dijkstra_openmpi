@@ -1,6 +1,6 @@
 # Dijkstra OpenMPI
 ## Overview
-The DijkstraOpenMPI project is a C++ application that implements the Dijkstra algorithm using the OpenMPI library for parallel computing. This project is designed to run on systems with MPI support. You can create huge random directed graphs automatically with the Dijkstra class and test these. The project is designed to run on systems with MPI support.
+The DijkstraOpenMPI project is a C++ application that implements the Dijkstra algorithm using the OpenMPI library for parallel computing. You can create huge random directed graphs automatically with the Dijkstra class and test these. The project is designed to run on systems with MPI support.
 
 ## Prerequisites
 Before building the project, ensure you have the following installed on your system:
